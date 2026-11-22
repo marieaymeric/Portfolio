@@ -56,13 +56,7 @@ portfolio/
 
 Aucune installation n'est nécessaire. Une connexion Internet est requise pour charger Bootstrap et les polices.
 
-## Publier le site avec GitHub Pages
-
-1. Envoyer les fichiers sur le dépôt GitHub.
-2. Aller dans **Settings → Pages**.
-3. Dans **Source**, choisir la branche `main` et le dossier `/ (root)`, puis enregistrer.
-4. Après quelques minutes, le site est disponible à l'adresse :
-   `https://marieaymeric.github.io/NOM-DU-DEPOT/`
+## Maquette
 
 ## Contact
 
